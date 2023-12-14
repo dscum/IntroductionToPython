@@ -2,9 +2,9 @@
 
 This lab hands-on manual guides you to build a simple password generator using basic Python programming only.
 
-This guide will not cover the basics of Python programming like what Pytthon is, the IDEs to use and the general syntax. It will just show the steps to build the generator in Python.
+This guide will not cover the basics of Python programming like what Python is, the IDEs to use and the general syntax. It will just show the steps to build the generator in Python.
 
-If you are ready with your IDE, you may start from Step 01.
+You can use online IDE like [Replit](https://replit.com) to start this project. Once you are ready with your IDE, you may start from Step 01.
 
 ## Step 01: IDE Testing
 
