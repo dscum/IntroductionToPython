@@ -10,7 +10,7 @@ length = int(input('Enter Password Length: '))
 while length < 4 or length > 64:
 
     print('The length of password must be at least 4! Try again.')
-    length = input('Enter Password Length: ')
+    length = int(input('Enter Password Length: '))
 
 # Build Password
 password_character_arr = []
