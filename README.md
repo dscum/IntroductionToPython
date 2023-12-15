@@ -149,7 +149,7 @@ The concept behind this is to reask the user to enter a valid input until a vali
 while length < 4 or length > 64:
 
     print('The length of password must be at least 4! Try again.')
-    length = input('Enter Password Length: ')
+    length = int(input('Enter Password Length: '))
 ```
 
 In this case, we limit the accepted value for length to be between the range of 4 and 64 inclusive, since 4 means that our password has each of the character type to be a strong password, and 64 is usually the maximum length of a password.
