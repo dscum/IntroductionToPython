@@ -9,7 +9,7 @@ length = int(input('Enter Password Length: '))
 # Length Validation
 while length < 4 or length > 64:
 
-    print('The length of password must be at least 4! Try again.')
+    print('The length of password must be within 4 to 64! Try again.')
     length = int(input('Enter Password Length: '))
 
 # Build Password
